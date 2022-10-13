@@ -1,3 +1,12 @@
+// Quick Sort
+
+// Best case O(n log n)
+// Worst case O(n log n)
+// Average case O(n*2)
+
+// In-place : Yes
+// Stable : No
+
 #include <iostream>
 using namespace std;
 

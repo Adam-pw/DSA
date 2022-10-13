@@ -1,3 +1,12 @@
+// Bubble Sort
+
+// Best case O(n)
+// Worst case O(n*2)
+// Average case O(n*2)
+
+// In-place : Yes
+// Stable : Yes
+
 #include <iostream>
 using namespace std;
 
