@@ -1,22 +1,22 @@
-## Data Structure And Algorithms
+# Data Structure And Algorithms
 
 Hello Peps,
 
 This my repository for Data Structure and Algorithms. What I have learne till now and What I code. This whole repository is in C++ but It can also be reffered for C. I have also mentioned comments for understanding in some programs
 
-## Contents
+# Contents
 
 What does this file contain ?
 
-# Array
+## Array
 
-# BST
+## BST
 
-# Linked List
+## Linked List
 
-# Queue
+## Queue
 
-# Sorting :
+## Sorting :
 
 * Bubble Sort
 * Selection Sort
@@ -25,8 +25,8 @@ What does this file contain ?
 * Quick SOrt
 * Heap Sort
 
-# Stack
+## Stack
 
-# String
+## String
 
-# Trees
+## Trees
