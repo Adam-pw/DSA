@@ -9,6 +9,28 @@ This my repository for Data Structure and Algorithms. What I have learne till no
 What does this file contain ?
 
 ## Array
+### * Array Opeations
+* Array Traversal
+* Insert at the end
+* Insert at the beginning
+* Replace at any index
+* Insert at any index
+* Display
+* Append
+* Insert
+* Delete
+* Swap
+* Linear Search
+* Binary Search
+* Recursive Binary Search
+* Get Function
+* Set Function
+* Max Function
+* Min Function
+* Sum of all elements
+* Reverse Function
+* Is Sorted Check ?
+* Merging two arrays
 
 ## BST
 
