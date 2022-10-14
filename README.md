@@ -1,4 +1,6 @@
+<p align="center">
 # Data Structure And Algorithms
+</p>
 
 Hello Peps,
 
