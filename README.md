@@ -8,8 +8,8 @@ This my repository for Data Structure and Algorithms. What I have learne till no
 
 What does this file contain ?
 
-## Array
-### * Array Opeations
+## Array Opeations
+
 * Array Traversal
 * Insert at the end
 * Insert at the beginning
