@@ -434,7 +434,7 @@ int IsLoop(struct Node *p)
   do
   {
     p = p->next;
-    q = q->next;
+    q = q->next;*&*
     q = q ? q->next : q;
   } while (p && q && p != q);
   if (p == q)

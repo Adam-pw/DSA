@@ -21,8 +21,7 @@ What does this file contain ?
 * Delete
 * Swap
 * Linear Search
-* Binary Search
-* Recursive Binary Search
+* Binary Search / Recursive Binary Search
 * Get Function
 * Set Function
 * Max Function
@@ -32,9 +31,30 @@ What does this file contain ?
 * Is Sorted Check ?
 * Merging two arrays
 
-## BST
-
 ## Linked List
+
+### Linked List
+* Create Linked List
+* Display / Recursive Display Linked List
+* Counting / Recursive Counting Nodes 
+* Sum / Recursive Sum of all nodes
+* Max / Recursive Max
+* Min / Recursive Min
+* Search / Recursive Search of any node
+* Moving an element to first
+* Insertion
+* Inserting at the last
+* Sorted Insert
+* Deleting an element
+* Is Sorted check ?
+* Removing Duplicate
+* Reversing Linked list with array
+* Reversing with pointer
+* Reversing with Recursion
+* Checking Of loop linked list
+* 
+
+## BST
 
 ## Queue
 
