@@ -2,13 +2,13 @@
 
 Hello Peps,
 
-This my repository for Data Structure and Algorithms. What I have learne till now and What I code. This whole repository is in C++ but It can also be reffered for C. I have also mentioned comments for understanding in some programs
+This my repository for Data Structure and Algorithms. What I have learned till now and What I code. This whole repository is in C++ but It can also be reffered for C. I have also mentioned comments for understanding in some programs
 
 # Contents
 
 What does this file contain ?
 
-## Array Opeations
+## Array Operations
 
 * Array Traversal
 * Insert at the end
@@ -30,6 +30,16 @@ What does this file contain ?
 * Reverse Function
 * Is Sorted Check ?
 * Merging two arrays
+
+## Sorting :
+
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort
+* Quick SOrt
+* Heap Sort
+
 
 ## Linked List
 
@@ -57,15 +67,6 @@ What does this file contain ?
 ## BST
 
 ## Queue
-
-## Sorting :
-
-* Bubble Sort
-* Selection Sort
-* Insertion Sort
-* Merge Sort
-* Quick SOrt
-* Heap Sort
 
 ## Stack
 
