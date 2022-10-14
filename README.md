@@ -77,12 +77,56 @@ What does this file contain ?
 * Insetion
 * Deleteing an node
 
-## Queue
-
-## BST
-
 ## Stack
+### Array Stack
+* Creating
+* Display
+* Push
+* Pop
+* Peek
+* Is Empty Check
+* Is Full Check
+
+### Array Stack
+* Display
+* Push
+* Pop
+
+### Array Stack
+* Creating
+* Display
+* Push
+* Pop
+* Peek
+* Is Empty Check
+* Is Full Check
+
+### Important Programs
+* Parenthesis Matching
+* Prefix to Postfix Converstion
+
+## Queue
+### Array Queue
+* Enqueue
+* Dequeue
+* Display
+
+### Linked Queue
+* Enqueue
+* Dequeue
+* Display
+
+### Circluar Queue
+* Enqueue
+* Dequeue
+* Display
 
 ## String
+* Counting Length
+* Counting Vowels
+
+### Deque
+
+## BST
 
 ## Trees
