@@ -43,7 +43,7 @@ What does this file contain ?
 
 ## Linked List
 
-### Linked List
+### Linked List Operations
 * Create Linked List
 * Display / Recursive Display Linked List
 * Counting / Recursive Counting Nodes 
@@ -51,22 +51,35 @@ What does this file contain ?
 * Max / Recursive Max
 * Min / Recursive Min
 * Search / Recursive Search of any node
-* Moving an element to first
+* Moving an node to first
 * Insertion
 * Inserting at the last
 * Sorted Insert
-* Deleting an element
+* Deleting an node
 * Is Sorted check ?
 * Removing Duplicate
 * Reversing Linked list with array
 * Reversing with pointer
 * Reversing with Recursion
 * Checking Of loop linked list
-* 
 
-## BST
+### Circular Linked List Operations
+* Create Circular Linked List
+* Display / Recursive Display Circular Linked List
+* Calculating Length
+* Insetion
+* Deleteing an node
+
+### Doubly Linked List Operations
+* Create Doubly Linked List
+* Display Doubly Linked List
+* Calculating Length
+* Insetion
+* Deleteing an node
 
 ## Queue
+
+## BST
 
 ## Stack
 
